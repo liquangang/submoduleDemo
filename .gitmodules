@@ -1,0 +1,3 @@
+[submodule "submoduleLibrary"]
+	path = submoduleLibrary
+	url = https://github.com/liquangang/submoduleLibrary.git
